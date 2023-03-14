@@ -1,0 +1,7 @@
+@inproceedings{REPO-025,
+    author = "Kang, Wang{-}Cheng and McAuley, Julian J.",
+    booktitle = "{IEEE} International Conference on Data Mining, {ICDM} 2018, Singapore, November 17-20, 2018",
+    pages = "197--206",
+    title = "{Self-Attentive Sequential Recommendation}",
+    year = "2018"
+}
